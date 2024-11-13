@@ -16,7 +16,7 @@ except LookupError:
     nltk.download('stopwords')
 
 # Load summaries from JSON file
-with open(r"C:\Users\talelbm\Travaux Tarification STAR\Tarification et assainissement du portefeuille Automobile STAR\Code Tarification\summary_data.json", 'r', encoding='utf-8') as file:
+with open(r"summary_data.json", 'r', encoding='utf-8') as file:
     summaries = json.load(file)
 
 class FrenchQuestionTextMatcher:
