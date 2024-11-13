@@ -48,5 +48,5 @@ If you want to run the chatbot locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/chatbot-project.git
-   cd chatbot-project
+   git clone https://github.com/Talel-bm/chatbot-juridique.git
+   cd chatbot-juridique
